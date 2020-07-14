@@ -12,14 +12,13 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test; 
 import org.testng.annotations.AfterClass; 
 import org.openqa.selenium.Alert; 
-import org.openqa.selenium.JavascriptExecutor;gopiraj
+import org.openqa.selenium.JavascriptExecutor;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
-gopiraj
 import java.util.Properties;
 
 
